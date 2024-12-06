@@ -1,0 +1,7 @@
+Install the dependencies
+Run the following command to install all necessary dependencies:
+npm install
+
+Start the development server
+Once the dependencies are installed, start the server by running:
+npm run dev
